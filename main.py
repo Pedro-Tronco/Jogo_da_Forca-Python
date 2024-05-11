@@ -1,5 +1,3 @@
-#Pedro Augusto Nalin Tronco
-#RA: 1136278
 from func import titulo,help,limparTela,pause,corTitulo,corCompetidor,corDesafiante,abrirHistorico,estagioForca,mostrarDica,vitoria,gameOver,salvarHistorico
 try:
     arquivo=open("historico.JogoDaForca","r",encoding="utf-8")
